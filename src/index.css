@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    color: rgb(4, 5, 5);
+}
+
+body {
+    background-color: #f8fafc;
+}
+
+.active {
+    background-color: rgba(135, 132, 132, 0.606);
+}
